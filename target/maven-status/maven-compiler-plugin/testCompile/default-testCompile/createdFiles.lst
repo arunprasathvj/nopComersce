@@ -1,0 +1,9 @@
+Testrunners\runner.class
+POM\Loginpage.class
+Utils\Waithelper.class
+Test\test.class
+stepdefinetion\steps.class
+POM\Searcingpage.class
+stepdefinetion\TEestMethos.class
+POM\Addnewpage.class
+stepdefinetion\addcusteps.class
